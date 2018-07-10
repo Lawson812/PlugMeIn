@@ -1,0 +1,19 @@
+body{
+    background-color:#FFF4C5;
+}
+h1 {
+    margin-left: 40%;
+    margin-top:11%;
+    margin-bottom:4%;
+}
+.rightText{
+    width:20%;
+    height:18%;
+    text-align:left;
+    display:inline-block;
+    margin-left:2%;
+}
+.image1{
+    display:inline-block;
+    margin-left:14%;
+}
